@@ -2,4 +2,4 @@
 
 The dataset was taken from:
 https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
-The implementation for the CyclicLR is taken from https://github.com/bckenstler/CLR
+The implementation for the CyclicLR callback is taken from https://github.com/bckenstler/CLR
